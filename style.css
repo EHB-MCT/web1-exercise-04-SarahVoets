@@ -1,1 +1,12 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-image: URL(IMAGES/image1.png);
+}
